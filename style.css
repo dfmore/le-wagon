@@ -7,9 +7,13 @@ body{
 	height: 80px;
 }
 
-#container{
+.container{
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	height: 100vh
+}
+
+.column{
+	padding: 20px;
 }

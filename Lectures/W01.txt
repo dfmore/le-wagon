@@ -1,0 +1,18 @@
+15/10/2018 Setup
+
+--  vim               open a file and write on it
+--  cat               read the contents of a file
+--  rm -rf            remove a directory recursively
+--  ll -a             show hidden files
+
+-- rake               run exercise code
+
+
+16/10/2018 Ruby
+
+--  irb               runs Ruby and good to runs smalls snippets of code
+--  exit              exist irb console
+--  ruby <filename>   runs specific file
+
+*** if using interpolation #{} ruby converts all classes to strings ***
+*** "return" can be ommited within a method if used in the last line ***
